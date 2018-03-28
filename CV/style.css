@@ -117,9 +117,14 @@
         margin-top: 5px;
     }
     
+     .dock1, .bench1, .book1, .beach1{
+        margin-bottom: 20px;
+    }
+
     li{
         list-style: none;
         font-size: 14px;
+        margin-bottom: 3px;
     }
     
     h1{
